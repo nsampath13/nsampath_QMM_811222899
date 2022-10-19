@@ -135,7 +135,7 @@ $$W_3 <= 649 + P_B$$
 \newline
 $$ \text From \hspace{3mm} the \hspace{3mm} above \hspace{3mm} we \hspace{3mm} get \hspace{3mm} to \hspace{3mm} see \hspace{3mm} that \hspace{3mm} W_1 - P_A >= 622$$
 \newline
-$$ that \hspace{3mm} can \hspace{3mm} be \hspace{3mm} exponented \hspace{3mm} as \hspace{3mm} W_1 <= 622 + P_A$$
+$$ that \hspace{3mm} can \hspace{3mm} be \hspace{3mm} exponented \hspace{3mm} as \hspace{3mm} W_1 >= 622 + P_A$$
 \newline
 $$ \text Here \hspace{3mm} W_1 \hspace{3mm} is \hspace{3mm} considered \hspace{3mm} as \hspace{3mm} the \hspace{3mm} price \hspace{3mm} payments \hspace{3mm} being \hspace{3mm} received \hspace{3mm} at \hspace{3mm} the \hspace{3mm} origin \hspace{3mm} which \hspace{3mm} is \hspace{3mm} nothing \hspace{3mm} else, \hspace{3mm}$$ 
 $$\text but \hspace{3mm} the \hspace{3mm} revenue,\hspace{3mm} whereas\hspace{3mm} P_A + 622 \hspace{3mm} is \hspace{3mm} the \hspace{3mm} money \hspace{3mm} paid \hspace{3mm} at \hspace{3mm} the \hspace{3mm} origin \hspace{3mm} at \hspace{3mm} Plant_A \hspace{3mm}$$
