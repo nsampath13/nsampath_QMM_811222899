@@ -224,7 +224,7 @@ dea.plot(x, y, RTS='crs')
 
 ***DRS Plot***
 ```{r}
-dea.plot(x,y,RTS="vrs") 
+dea.plot(x,y,RTS="drs") 
 ```
 
 ***IRS Plot***
